@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:default;
+}
+.calculator{
+    width: 300px;
+    margin: auto;
+    background-color: rgb(210, 140, 149);
+    padding: 10px;
+    margin: auto;
+}
+.display{
+    background-color: rgb(229, 220, 245);
+    padding: 50px;
+    cursor: text;
+    text-align: right;
+}
+button{
+    width: 55px;
+    height: 60px;
+}
+.button{
+    border-radius: 60px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    margin: auto;
+}
+.button:hover{
+    background-color: rgb(192, 64, 224);
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
