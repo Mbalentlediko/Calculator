@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
     background-color:default;
 }
 .calculator{
@@ -42,3 +43,6 @@ h1{
 
 
 
+=======
+}
+>>>>>>> 433a592f5f387565175ed60965d92c96dcfd6ea3
